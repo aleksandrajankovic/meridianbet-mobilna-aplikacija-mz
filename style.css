@@ -35,6 +35,9 @@ header {
     background: linear-gradient(90deg, #A6080E 0%, #D11101 100%);
 }
 /*SECTION MERIDIAN APP*/
+.logo img {
+    width: 150px;
+}
 #meridianApp {
     background-image:url(./img/background.jpg);
     background-repeat: no-repeat;
